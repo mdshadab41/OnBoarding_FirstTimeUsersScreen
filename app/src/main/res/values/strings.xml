@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">on_boarding_demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_next">Next</string>
+    <string name="intro_skip">SKIP</string>
+
+    <string name="intro_title_1">View &amp; Buy Medicine Online</string>
+    <string name="intro_title_2">Save Your Time With Us!!</string>
+    <string name="intro_title_3">We Provide Home Delivery</string>
+    <string name="intro_description_1">Login to your account!</string>
+    <string name="intro_description_2">Let\'s build connection with new people.</string>
+    <string name="intro_description_3">Connect helps you locate the people around you.</string>
+
+    <string name="intro_get_started">Get Started</string>
+</resources>
